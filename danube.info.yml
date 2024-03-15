@@ -1,0 +1,6 @@
+name: Danube
+type: theme
+description: 'Custom theme based off of Belgrade.'
+core_version_requirement: '>10.2'
+base theme: belgrade
+
