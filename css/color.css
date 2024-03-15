@@ -1,0 +1,22 @@
+:root {
+  --bodyBg: #fff;
+  --textColor: #333;
+  --dark: #272727;
+  --primaryColor: #029292;
+  --primaryLight: #babad3;
+  --primaryLighter: #e9e9f2;
+}
+
+.welcome-block {
+  color: white;
+  background-color: var(--primaryColor); 
+}
+
+.w-100 {
+  background-color: var(--primaryColor);
+}
+
+.wide-announcement {
+  background-color: var(--primaryColor);
+}
+

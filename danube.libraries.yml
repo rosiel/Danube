@@ -2,3 +2,7 @@ theme:
   css:
     component:
       css/style.css: {}
+color:
+  css:
+    theme:
+      css/color.css: {}

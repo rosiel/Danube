@@ -1,3 +1,15 @@
-.block-layout-builder {
-  display: none;
+.welcome-block h2 {
+  font-size: 3em;
+}
+
+.welcome-block p {
+  font-size: 1.5em;
+}
+
+.block-views-blockcurrent-announcements-block-1 h2 {
+	font-size: 2em;
+}
+
+.block-views-blockcurrent-announcements-block-1 .views-field-title {
+	font-size: 1.5em;
 }

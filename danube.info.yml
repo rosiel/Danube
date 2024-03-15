@@ -16,4 +16,8 @@ regions:
   page_top: 'Page top'
   page_bottom: 'Page bottom'
 
-
+libraries:
+  - 'belgrade/fonts'
+  - 'belgrade/theme'
+  - 'danube/theme'
+  - 'danube/color'
