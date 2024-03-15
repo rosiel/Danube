@@ -1,0 +1,4 @@
+theme:
+  css:
+    component:
+      css/style.css: {}
