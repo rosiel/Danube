@@ -3,4 +3,17 @@ type: theme
 description: 'Custom theme based off of Belgrade.'
 core_version_requirement: '>10.2'
 base theme: belgrade
+regions:
+  navigation: 'Navigation'
+  top_navigation: 'Navigation (Top bar)'
+  header: 'Header'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
 
